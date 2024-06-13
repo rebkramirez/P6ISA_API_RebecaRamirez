@@ -1,0 +1,6 @@
+@P6ISA_API_RebecaRamirez_HostAddress = http://localhost:5283
+
+GET {{P6ISA_API_RebecaRamirez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
